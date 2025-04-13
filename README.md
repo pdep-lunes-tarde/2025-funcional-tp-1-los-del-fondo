@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **los-del-fondo**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2031723** 
+- Nombre: **Tiago**
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
