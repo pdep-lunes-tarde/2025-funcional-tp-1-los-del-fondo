@@ -6,10 +6,10 @@
 
 Integrantes:
 - Legajo: **2031723** 
-- Nombre: **Tiago**
+- Nombre: **Tiago Beltran**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2139406** 
+- Nombre: **Robert Ohanyan**
 
 
 ## Objetivos
